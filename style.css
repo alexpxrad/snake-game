@@ -1,5 +1,6 @@
 body {
-    background-image: url('island.png')
+    background-image: url('island.png');
+    background-size: cover;
 }
 
 
